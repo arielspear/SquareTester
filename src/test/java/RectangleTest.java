@@ -20,4 +20,5 @@ public class RectangleTest {
     Rectangle testRectangle = new Rectangle(4, 4);
     assertEquals(true, testRectangle.isSquare());
   }
+  
 }
